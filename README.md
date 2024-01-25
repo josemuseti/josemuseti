@@ -1,3 +1,2 @@
 - ## OLA EU sou @josemuseti
-- Estou em processo de aprendizagem.
-- 
+- Estou em processo de aprendizagem
